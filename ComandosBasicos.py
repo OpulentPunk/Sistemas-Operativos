@@ -1,3 +1,4 @@
+#Autor: Allard Hernández Adrián Emmanuel
 import subprocess
 
 def ejecutar (comando):
