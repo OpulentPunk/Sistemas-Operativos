@@ -1,3 +1,4 @@
+#Autor: Allard Hernández Adrián Emmanuel
 num1=0
 num2=0
 opc=str(input("¿Que desea realizar?: \n1. Suma\n2. Resta\n3. Multiplica\n4. Divide\n5. Salir "))
